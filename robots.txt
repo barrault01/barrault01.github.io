@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.your-domain.com/sitemap.xml 
+Sitemap: http://asapps.fr/sitemap.xml 

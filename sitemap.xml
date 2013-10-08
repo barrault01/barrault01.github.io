@@ -1,37 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://www.your-domain.com/blog/2013/10/08/writing-a-blog-post-using-command-line/
-        </loc>
+        <loc>http://asapps.fr/blog/2013/10/08/writing-a-blog-post-using-command-line/</loc>
         <lastmod>2013-10-08T10:36:10-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/about/</loc>
+        <loc>http://asapps.fr/about/</loc>
         <lastmod>2013-10-08T10:36:10-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/about/</loc>
+        <loc>http://asapps.fr/about/</loc>
         <lastmod>2013-10-08T10:36:10-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/blog/archives/</loc>
+        <loc>http://asapps.fr/blog/archives/</loc>
         <lastmod>2013-10-08T10:36:10-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/blog/</loc>
+        <loc>http://asapps.fr/blog/</loc>
         <lastmod>2013-10-08T10:36:10-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/contact/</loc>
+        <loc>http://asapps.fr/contact/</loc>
         <lastmod>2013-10-08T12:11:29-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/</loc>
+        <loc>http://asapps.fr/</loc>
         <lastmod>2013-10-08T14:25:18-03:00</lastmod>
     </url>
     <url>
-        <loc>http://www.your-domain.com/robots.txt</loc>
+        <loc>http://asapps.fr/robots.txt</loc>
         <lastmod>2013-10-08T10:36:10-03:00</lastmod>
     </url>
 </urlset>
