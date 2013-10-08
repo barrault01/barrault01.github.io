@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Antoine Barrault]]></title>
+  <link href="http://www.your-domain.com/atom.xml" rel="self"/>
+  <link href="http://www.your-domain.com/"/>
+  <updated>2013-10-08T16:03:32-03:00</updated>
+  <id>http://www.your-domain.com/</id>
+  <author>
+    <name><![CDATA[Antoine Barault]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Writing a blog post using command line ]]></title>
+    <link href="http://www.your-domain.com/blog/2013/10/08/writing-a-blog-post-using-command-line/"/>
+    <updated>2013-10-08T10:24:00-03:00</updated>
+    <id>http://www.your-domain.com/blog/2013/10/08/writing-a-blog-post-using-command-line</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
