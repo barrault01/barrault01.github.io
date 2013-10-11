@@ -4,7 +4,7 @@
   <title><![CDATA[Antoine Barrault]]></title>
   <link href="http://asapps.fr/atom.xml" rel="self"/>
   <link href="http://asapps.fr/"/>
-  <updated>2013-10-08T17:58:52-03:00</updated>
+  <updated>2013-10-11T00:34:47-03:00</updated>
   <id>http://asapps.fr/</id>
   <author>
     <name><![CDATA[Antoine Barault]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bom dia]]></title>
+    <link href="http://asapps.fr/blog/2013/10/11/bom-dia-slash/"/>
+    <updated>2013-10-11T00:32:00-03:00</updated>
+    <id>http://asapps.fr/blog/2013/10/11/bom-dia-slash</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Writing a blog post using command line ]]></title>
