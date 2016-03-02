@@ -1,18 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: Antoine Barrault
+description: Swift, iOS and some other stuffs
+meta_description: "Swift,iOS and some other stuffs by Antoine Barrault"
 
-# Site settings
-title: Swift,iOS and some other stuffs
-email: #
-description: #
-baseurl: "" # the subpath of your site, e.g. /blog
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://asapps.fr'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
 url: "http://asapps.fr" # the base hostname & protocol for your site
+author:         'Antoine Barrault'
+
 twitter_username: devasapps
 github_username:  barrault01
-
-# Build settings
-markdown: kramdown
