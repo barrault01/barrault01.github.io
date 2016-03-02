@@ -13,7 +13,7 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: "http://asapps.fr" # the base hostname & protocol for your site
-author:         'Antoine Barrault'
+author: 'Antoine Barrault'
 
 twitter_username: devasapps
 github_username:  barrault01
