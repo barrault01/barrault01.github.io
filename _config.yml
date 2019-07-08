@@ -1,0 +1,38 @@
+# Site settings
+title: "Antoine Barrault"
+email: asapps@me.com
+description: "My personal website"
+baseurl: ""
+url: "http://asapps.fr"
+title_description: "I write Swift code, a little bit of react native and flutter too. Dad of two awesome children with a wonderful wife."
+title_image: "https://pbs.twimg.com/profile_images/998526014379646976/m1VlbMYe_400x400.jpg"
+google_analytics: "UA-67460747-3"
+disqus_account: 
+github_repository: https://github.com/barrault01
+addthis_id: 
+post_limit: 0
+
+# Social usernames/URLs
+twitter_username: _ant_one
+github_username:  barrault01
+instagram_username: 
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/ant1/
+google_plus_link: 
+stackoverflow_link: https://stackoverflow.com/users/1220896/ant-one
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: 
+footer_right: 
+  
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
